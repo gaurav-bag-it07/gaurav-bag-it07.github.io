@@ -3,27 +3,27 @@
 @import url("aos.css");
 @font-face {
     font-family: 'Code';
-    src: url("../Fonts/IBMPlexMono-Thin.ttf");
+    src: url("./Fonts/IBMPlexMono-Thin.ttf");
 }
 
 @font-face {
     font-family: 'CodeLight';
-    src: url("../Fonts/IBMPlexMono-Light.ttf");
+    src: url("./Fonts/IBMPlexMono-Light.ttf");
 }
 
 @font-face {
     font-family: 'Thin';
-    src: url("../Fonts/Manrope-ExtraLight.ttf");
+    src: url("./Fonts/Manrope-ExtraLight.ttf");
 }
 
 @font-face {
     font-family: 'Light';
-    src: url("../Fonts/manrope-light.ttf");
+    src: url("./Fonts/manrope-light.ttf");
 }
 
 @font-face {
     font-family: 'Regular';
-    src: url("../Fonts/manrope-regular.ttf");
+    src: url("./Fonts/manrope-regular.ttf");
 }
 
 @font-face {
@@ -33,7 +33,7 @@
 
 @font-face {
     font-family: 'ExtraBold';
-    src: url("../Fonts/manrope-extrabold.ttf");
+    src: url("./Fonts/manrope-extrabold.ttf");
 }
 
 html {
