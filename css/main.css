@@ -1,3 +1,60 @@
+/* =================================================================== 
+ *  TOC:
+ *  # base style overrides
+ *      ## links    
+ *  # typography & general theme styles
+ *      ## typography
+ *      ## Lists    
+ *      ## responsive video container
+ *      ## floated image
+ *      ## tables
+ *      ## Spacing
+ *  # preloader
+ *  # forms
+ *      ## Style Placeholder Text
+ *      ## Change Autocomplete styles in Chrome
+ *  # buttons
+ *  # additional components
+ *      ## additional typo styles
+ *      ## skillbars
+ *      ## alert box 
+ *      ## pagination 
+ *  # Common and Reusable Styles
+ *      ## animation stuff 
+ *      ## entry media
+ *      ## listing header
+ *      ## slick slider 
+ *      ## masonry entries 
+ *      ## post formats - masonry view
+ *  # site header
+ *      ## header logo
+ *      ## header main navigation
+ *      ## menu toggle
+ *      ## header social
+ *      ## header search trigger
+ *      ## header-search
+ *      ## close button for search 
+ *  # site content & footer 
+ *      ## content
+ *      ## footer
+ *      ## copyright
+ *      ## go to top
+ *  # blog styles and blog components
+ *      ## entry header meta
+ *      ## post tags
+ *      ## blog single page navigation
+ *      ## related articles
+ *      ## comments
+ *      ## format gallery
+ *
+ * =================================================================== */
+
+
+/* ===================================================================
+ * # base style overrides
+ *
+ * ------------------------------------------------------------------- */
+
 @import url("css/base.css");
 @import url("css/hover.css");
 @import url("css/aos.css");
