@@ -55,9 +55,9 @@
  *
  * ------------------------------------------------------------------- */
 
-@import url("base.css");
-@import url("hover.css");
-@import url("aos.css");
+@import url("css/base.css");
+@import url("css/hover.css");
+@import url("css/aos.css");
 @font-face {
     font-family: 'Code';
     src: url("../Fonts/IBMPlexMono-Thin.ttf");
