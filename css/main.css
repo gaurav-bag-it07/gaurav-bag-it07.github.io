@@ -3126,7 +3126,7 @@ body.search-is-visible {
         width: 230px;
         padding-right: 2.8rem;
         padding-left: 4rem;
-        overflow:hidden
+        height:100%
     }
     .header__nav {
         font-size: 15.5px;
