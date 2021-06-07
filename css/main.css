@@ -2444,7 +2444,7 @@ input::-moz-focus-inner {
     padding-top: 3rem;
     padding-right: 3rem;
     padding-left: 3rem;
-    overflow-y: hidden;
+    overflow-y: auto;
     overflow-x: hidden;
     vertical-align: top;
     position: fixed;
@@ -3126,6 +3126,7 @@ body.search-is-visible {
         width: 230px;
         padding-right: 2.8rem;
         padding-left: 4rem;
+        overflow:hidden
     }
     .header__nav {
         font-size: 15.5px;
