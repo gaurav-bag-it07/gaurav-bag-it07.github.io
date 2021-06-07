@@ -2444,7 +2444,7 @@ input::-moz-focus-inner {
     padding-top: 3rem;
     padding-right: 3rem;
     padding-left: 3rem;
-    overflow-y: auto;
+    overflow-y: hidden;
     overflow-x: hidden;
     vertical-align: top;
     position: fixed;
