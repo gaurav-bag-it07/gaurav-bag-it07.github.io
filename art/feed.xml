@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arpit Jain</title>
+    <description>My name is Arpit Jain. I make Art. You can find my paintings, films and photography here.</description>
+    <link>https://arpitjainds.github.io/art//</link>
+    <atom:link href="https://arpitjainds.github.io/art//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 Dec 2020 07:46:08 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Dec 2020 07:46:08 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+  </channel>
+</rss>
